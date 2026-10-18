@@ -11,6 +11,18 @@ Small business owners and artisans often need to write product descriptions for 
 
 Artisan Copy Studio helps turn rough product notes into sales copy using a locally running AI model, without requiring a paid cloud API.
 
+## 📸 App Preview
+
+### 1. Product Input
+
+![Artisan Copy Studio - Product Input](assets/input.png)
+
+### 2. Generated Sales Copy
+
+![Artisan Copy Studio - Generated Output](assets/output.png)
+
+---
+
 ## ✨ Features
 
 - Generate sales copy from product notes
